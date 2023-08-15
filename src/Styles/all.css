@@ -1,0 +1,11 @@
+.leftPaddingOverride {
+    padding-left: 0 !important;
+}
+
+.deleteAll {
+    padding-top: 43px !important;
+}
+
+.taskSearchGridContainer {
+    padding-top: 45px !important;
+}
